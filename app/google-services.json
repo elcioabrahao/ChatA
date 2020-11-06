@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416845526978",
+    "firebase_url": "https://chata-9560d.firebaseio.com",
+    "project_id": "chata-9560d",
+    "storage_bucket": "chata-9560d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416845526978:android:4dccc8d33d490c9f94085b",
+        "android_client_info": {
+          "package_name": "br.usjt.ucsist.chata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416845526978-m7ijcfc3n5u4g7mjt0aptq0uoin2iu43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPO1L-5oBRbFy852MFxggb1oVjSA3wHZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416845526978-m7ijcfc3n5u4g7mjt0aptq0uoin2iu43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
